@@ -1,0 +1,10 @@
+{
+    "powermode.enabled": true,
+    "powermode.shake.enabled": false,
+    "powermode.explosions.enabled": true,
+    "powermode.presets": "flames",
+    "powermode.combo.location": "default",
+    "powermode.combo.counterEnabled": "show",
+    "powermode.combo.counterSize": 0,
+    "powermode.combo.timerEnabled": "show"
+}
