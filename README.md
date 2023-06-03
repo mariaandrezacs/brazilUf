@@ -1,2 +1,2 @@
 # brazilUf
-Brasil e suas Unidades Federativas - Projeto voltado a aprender mais sobre o país e seus estados/cidades. 
+Projeto voltado a aprender mais sobre o país e seus estados/cidades. Brasil e suas Unidades Federativas.
