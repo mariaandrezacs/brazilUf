@@ -1,6 +1,14 @@
-# brazilUf
-Projeto voltado a aprender mais sobre o país e seus estados/cidades. Brasil e suas Unidades Federativas.
+# BrazilUF
 
-https://pt.w3hmong.com/html/default.htm
+Sistema para gerenciamento e organização de informações sobre estados e municípios do Brasil, oferecendo uma interface intuitiva e funcionalidades avançadas para pesquisa e consulta de dados.
+
+## Tecnologias utilizadas
+- 🐍 Python
+- 🌿 Django
+- 🎨 HTML
+- 🎭 CSS
+- ⚡ JavaScript
+- 📦 Bootstrap
+
 
 
