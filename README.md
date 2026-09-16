@@ -51,5 +51,3 @@ src/
 ├── data/         # capitais.json (capitais das UFs)
 └── utils/        # Normalização de texto para busca
 ```
-
-> A pasta `src/static/` contém a versão legada do projeto (HTML/CSS estático), mantida como referência.
